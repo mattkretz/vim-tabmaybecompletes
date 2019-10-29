@@ -1,7 +1,7 @@
 # tabmaybecompletes.vim
 
 This is a trivial plugin to make the Tab key more useful in INSERT mode. If the 
-preceding character is an identifier character (`isident`), the Tab key press 
+preceding character is a keyword character (`iskeyword`), the Tab key press 
 turns into CTRL-P and Shift-Tab into CTRL-N.
 
 ## Installation
